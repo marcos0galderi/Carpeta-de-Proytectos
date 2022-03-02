@@ -1,0 +1,1 @@
+Este es un repositorio donde incluyo dos proyectos de juego que se encuentran en desarrollo y un borrador con algunas de las cosas que he aprendido en python para reforzar conocimientos, en el futuro cercano quiero realizar el proyecto de una APIrest, que será incluida aquí.
